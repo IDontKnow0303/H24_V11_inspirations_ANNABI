@@ -1,6 +1,6 @@
 # Mahmoud Annabi
 
-<img src="/semaine_01/IMG_6148.jpeg" width="50" height="50"> 
+<img src="/semaine_01/IMG_6148.jpeg" width="75" height="75"> 
 
 ## Intérêt par rapport au programme
 
