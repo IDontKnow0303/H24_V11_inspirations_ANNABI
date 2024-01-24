@@ -1,6 +1,6 @@
 # Mahmoud Annabi
 
-![Mahmoud Annabi](/semaine_01/IMG_6148.jpeg)
+<img src="/semaine_01/IMG_6148.jpeg" width="50" height="50"> 
 
 ## Intérêt par rapport au programme
 
