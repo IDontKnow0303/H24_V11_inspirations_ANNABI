@@ -1,3 +1,7 @@
 # Mahmoud Annabi
 
 ![Mahmoud Annabi](/semaine_01/IMG_6148.jpeg)
+
+## Intérêt par rapport au programme
+
+Je trouve, en général, que cette technique offre des cours assez intéressants. Toutefois, je suis particulièrement attiré par **la modélisation et l'animation tridimensionnelles**, car je m'oriente vers la conception de jeux vidéo, et je vise spécifiquement la facette créative de ce champ, soit la conception de personnages, ou encore, de l'environnement.
