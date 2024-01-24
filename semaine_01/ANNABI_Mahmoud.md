@@ -10,6 +10,6 @@ Je trouve, en général, que cette technique offre des cours assez intéressants
 
 ## Projet pour l'avenir
 
-Si je pouvais ajouter une information me concernant, je songe à apprendre comment produire ma propre marchandise grâce à une imprimante 3D. J'ignore cependant si le cours de modelage couvre cette technique. Dans le cas affirmatif, je serais très ouvert quant à l'enseignement de cette procédure. Le lien ci-dessous mène vers une vidéo explicative en lien avec le sujet, réalisée pour les débutants. Je l'ai visionnée, et depuis, j'en suis captivé.
+Si je pouvais ajouter une information me concernant, je songe à apprendre comment produire ma propre marchandise grâce à une imprimante 3D. J'ignore cependant si le cours de modelage couvre cette technique. Dans le cas affirmatif, je serais très ouvert quant à l'enseignement de cette procédure. L'addresse ci-dessous mène vers une vidéo explicative en lien avec le sujet, réalisée pour les débutants. Je l'ai visionnée, et depuis, j'en suis captivé.
 
 [3D PRINTING 101: The ULTIMATE Beginner’s Guide](https://www.youtube.com/watch?v=2vFdwz4U1VQ)
