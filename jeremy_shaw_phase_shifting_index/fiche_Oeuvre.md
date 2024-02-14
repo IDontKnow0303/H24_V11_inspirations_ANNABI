@@ -18,6 +18,10 @@
   
 - **Nom de l'artiste** : Jeremy Shaw
 - **Année de réalisation** : 2020
-- **Type de l'oeuvre** : Contemplative
+- **Type d'installation** : Contemplative
 
 [Aperçu](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EQRJt1A14_tMowewXKqTqBEBXy-zxODl4y6-sZ1QTPBh0g?e=kGdmmw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## Description de l'oeuvre
+
+**Phase Shifting Index* est une expérience contemplative dont le thème baigne dans un monde débranché de la réalité. L'audience est invitée à faire la rencontre d'individus s'adonnant à ce qui semblent être des activités physiques et thérapeutiques plutôt étranges dont objectif se résume à l'exploration d'existences parallèles. On est alors introduit aux notions de transcendance et d'intemporalité par le biais du mouvement, tel que démontré par les maints groupes figurant sur les écrans. 
