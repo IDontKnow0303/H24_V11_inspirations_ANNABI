@@ -13,12 +13,9 @@
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
  ![oeuvre](medias/ensemble_des_ecrans_colores_01.jpeg) |   ![oeuvre](medias/ensemble_des_ecrans_colores_02.jpeg) 
-  ![oeuvre](medias/ensemble_des_ecrans_colores_01.jpeg)
-  ![oeuvre](medias/ensemble_des_ecrans_colores_02.jpeg)
-  ![oeuvre](medias/ensemble_des_ecrans_colores_03.jpeg)
-  ![oeuvre](medias/ensemble_des_ecrans_statiques_01.jpeg)
-  ![oeuvre](medias/ensemble_des_ecrans_statiques_02.jpeg)
-
+ ![oeuvre](medias/ensemble_des_ecrans_colores_03.jpeg)     ![oeuvre](medias/ensemble_des_ecrans_statiques_01.jpeg)
+ ![oeuvre](medias/ensemble_des_ecrans_statiques_02.jpeg)
+ 
 - **Nom de l'artiste** : Jeremy Shaw
 - **Année de réalisation** : 2020
 - **Type de l'oeuvre** : Contemplative
