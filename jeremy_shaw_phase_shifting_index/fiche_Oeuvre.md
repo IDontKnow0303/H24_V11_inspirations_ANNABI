@@ -24,4 +24,4 @@
 
 ## Description de l'oeuvre
 
-**Phase Shifting Index* est une expérience contemplative dont le thème baigne dans un monde débranché de la réalité. L'audience est invitée à faire la rencontre d'individus s'adonnant à ce qui semblent être des activités physiques et thérapeutiques plutôt étranges dont objectif se résume à l'exploration d'existences parallèles. On est alors introduit aux notions de transcendance et d'intemporalité par le biais du mouvement, tel que démontré par les maints groupes figurant sur les écrans. 
+*Phase Shifting Index* est une expérience contemplative dont le thème baigne dans un monde débranché de la réalité. Cette installation comprenant un ensemble de faux documentaires et d'autres éléments audiovisuels fidèles au style des années 60, invite son audience à faire la rencontre d'individus s'adonnant à ce qui paraissent être des activités physiques et thérapeutiques plutôt étranges, dont objectif se résume à l'exploration d'existences parallèles. On est alors introduit aux notions de transcendance et d'intemporalité par le biais du mouvement, tel que démontré par les maints groupes figurant sur les écrans. 
