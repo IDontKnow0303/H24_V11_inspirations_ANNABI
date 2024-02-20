@@ -30,7 +30,7 @@
 
 ### The Cyclical Culture
 
-![oeuvre1](medias/cyclical_culture.png)
+<img src="medias/cyclical_culture.png" />
 
 **Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
 
@@ -137,3 +137,7 @@
 **Pour une description plus détaillée, se référer à l'image suivante :**
 
 <img src="medias/quantum_moderns_description.jpeg" width="200" />
+
+## Mise en espace
+
+L
