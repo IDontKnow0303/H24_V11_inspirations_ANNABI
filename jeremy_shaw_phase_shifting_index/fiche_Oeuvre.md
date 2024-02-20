@@ -32,6 +32,8 @@
 
 ![oeuvre1](medias/cyclical_culture.png)
 
+**Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
+
 *The Cyclical Culture* est, sommairement, une expérience centrée sur la renaissance et la redécouverte du développement humain depuis la formation de l'embryon, dans le cadre d'une extinction humanitaire potentielle. Les membres traversent à nouveau les étapes de l'évolution individuelle, que ce soit au plan physiologique ou biologique, par l'intermédiaire des capacités humaines telles que le toucher, ou encore, la voix.
 
 [Aperçu](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EYYVf9ZbV5JIkx_mEViwcH0B2EalLrEUr0GUJ4UabhTIng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rb04hx)
@@ -42,7 +44,9 @@
 
 ### Zero Ones
 
-![oeuvre1](medias/zero_ones.png)
+![oeuvre2](medias/zero_ones.png)
+
+**Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
 
 *Zero Ones* présente la recherche d'une harmonie entre l'être humain et la technologie. Les membres du groupe « Zero Ones » poursuivent, conséquemment, l'assimilation complète de leur race par la machinerie et un système informatique global. Ils répliquent, entre autres, des mouvements robotiques afin d'atteindre leurs idéaux, soit réunir l'individu et l'engin en un, précisément le surpassement de leur statut courant défini par un progrès évolutif.
 
@@ -54,7 +58,9 @@
 
 ### The Violet Lux
 
-![oeuvre1](medias/violet_lux.png)
+![oeuvre3](medias/violet_lux.png)
+
+**Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
 
 *The Violet Lux* introduit des concepts plutôt complexes, car les partisans de l'immatériel,  les « Violet Lux », auraient déjà gravit les échelons de la vie parallèle. Ils exécutent des gestes corporels ritualistes déjà programés afin d'éveiller ce qu'ils qualifient de « pure présence ». Autrement dit, leurs activités sont dirigées par le désir de transcender en mettant à l'épreuve leur dévotion envers la sublimité.
 
@@ -63,3 +69,9 @@
 **Pour une description plus détaillée, se référer à l'image suivante :**
 
 <img src="medias/violet_lux_description.jpeg" width="200" />
+
+### The Alignment Movement
+
+![oeuvre1](medias/zero_ones.png)
+
+**Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
