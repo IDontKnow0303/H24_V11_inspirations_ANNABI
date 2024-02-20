@@ -22,7 +22,7 @@
 
 [Aperçu](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EQRJt1A14_tMowewXKqTqBEBXy-zxODl4y6-sZ1QTPBh0g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3FCj1f)
 
-## Description de l'exposition et ses oeuvres
+## Description de l'exposition et son contenu
 
 *Phase Shifting Index* est une expérience immersive dont le thème baigne dans un monde débranché de la réalité. Cette installation comprenant un ensemble de faux documentaires et d'autres éléments audiovisuels fidèles au style des années 60, invite son audience à faire la rencontre d'individus s'adonnant à ce qui paraissent être des activités physiques et thérapeutiques plutôt étranges, dont objectif se résume à l'exploration d'existences parallèles. On est alors introduit aux notions de transcendance et d'intemporalité par le biais du mouvement, tel que démontré par les maints groupes figurant sur les écrans. 
 
@@ -140,4 +140,8 @@
 
 ## Mise en espace
 
-L
+L'exposition est disposée dans une salle de forme rectangulaire, et les écrans, dans leur ensemble, occupent toute la largeur disponible, de manière à ce que les visiteurs puissent avoir une bonne vue de chaque contenu dès l'instant où ils pénètrent dans la pièce. Depuis l'extrémité gauche, on peut percevoir, en ordre, les présentations de *Cyclical Culture*, *Zero Ones* et *The Violet Lux*. *The Alignment Movement* est située au centre, puis elle est suivie par *Reclaimers*, *Countdown* et *Quantum Moderns*, respectivement, du côté droit de l'espace. 
+
+**Schéma de l'exhibition** :
+
+<img src="medias/quantum_moderns_description.jpeg" width="200" />
