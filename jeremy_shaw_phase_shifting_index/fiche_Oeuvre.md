@@ -144,4 +144,4 @@ L'exposition est disposée dans une salle de forme rectangulaire, et les écrans
 
 **Schéma de l'exhibition** :
 
-<img src="medias/quantum_moderns_description.jpeg" width="200" />
+<img src="medias/disposition_des_oeuvres.jpeg" width="200" />
