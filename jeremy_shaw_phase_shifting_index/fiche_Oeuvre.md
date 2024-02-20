@@ -29,3 +29,5 @@
 **Pour une description plus détaillée, procédez au lien suivant :** [MAC](https://macm.org/expositions/jeremy-shaw/)
 
 ### The Cyclical Culture
+
+
