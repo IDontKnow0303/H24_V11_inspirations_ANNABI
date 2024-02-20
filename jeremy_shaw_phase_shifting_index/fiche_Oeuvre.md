@@ -199,3 +199,7 @@ Je ne modifierais pas l'idée derrière le projet, mais plutôt le plan techniqu
 - [YouTube](https://www.youtube.com/watch?v=3qKcd7qb4eE)
 
 - [YouTube](https://www.youtube.com/watch?v=ceyjX_1VR5A)
+
+- [The Polygon](https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/)
+
+- [Stir](https://www.createastir.ca/articles/jeremy-shaw-phase-shifting-index-the-polygon-gallery)
