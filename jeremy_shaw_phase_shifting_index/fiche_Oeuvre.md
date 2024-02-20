@@ -155,3 +155,9 @@ L'exposition est disposée dans une salle de forme rectangulaire, et les écrans
 - **Trois formats vidéo** : 16 mm, VHS et le Hi-8.
 - Faux documentaires.
 - Utilisation, par les acteurs, d'habits dévoués au style vestimentaire des années 60 à 90.
+
+**Exemple du style vestimentaire référencé ainsi que la qualité vidéo** :
+
+<img src="violet_lux_ref_fashion" width="200" />
+
+**Source** : [Akimbo](https://akimbo.ca/listings/jeremy-shaw-phase-shifting-index/)
