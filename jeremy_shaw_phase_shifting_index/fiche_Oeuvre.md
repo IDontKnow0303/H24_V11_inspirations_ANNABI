@@ -52,7 +52,14 @@
 
 <img src="medias/zero_ones_description.jpeg" width="200" />
 
+### The Violet Lux
 
+![oeuvre1](medias/violet_lux.png)
 
+*The Violet Lux* introduit des concepts plutôt complexes, car les partisans de l'immatériel,  les « Violet Lux », auraient déjà gravit les échelons de la vie parallèle. Ils exécutent des gestes corporels ritualistes déjà programés afin d'éveiller ce qu'ils qualifient de « pure présence ». Autrement dit, leurs activités sont dirigées par le désir de transcender en mettant à l'épreuve leur dévotion envers la sublimité.
 
+(Aucun aperçu disponible)
 
+**Pour une description plus détaillée, se référer à l'image suivante :**
+
+<img src="medias/violet_lux_description.jpeg" width="200" />
