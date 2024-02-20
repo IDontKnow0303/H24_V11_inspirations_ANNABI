@@ -86,7 +86,7 @@
 
 ### Reclaimers
 
-<img src="reclaimers.png" width="200" />
+<img src="medias/reclaimers.png" width="200" />
 
 **Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
 
