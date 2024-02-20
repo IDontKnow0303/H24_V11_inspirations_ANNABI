@@ -158,6 +158,6 @@ L'exposition est disposée dans une salle de forme rectangulaire, et les écrans
 
 **Exemple du style vestimentaire référencé ainsi que la qualité vidéo** :
 
-<img src="violet_lux_ref_fashion.jpg" width="200" />
+<img src="violet_lux_ref_fashion.jpg" />
 
 **Source** : [Akimbo](https://akimbo.ca/listings/jeremy-shaw-phase-shifting-index/)
