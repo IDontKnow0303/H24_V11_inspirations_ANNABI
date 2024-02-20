@@ -161,3 +161,7 @@ L'exposition est disposée dans une salle de forme rectangulaire, et les écrans
 <img src="medias/violet_lux_ref_fashion.jpg" width="200" />
 
 **Source** : [Akimbo](https://akimbo.ca/listings/jeremy-shaw-phase-shifting-index/)
+
+## Éléments nécessaires à la mise en exposition
+
+- 
