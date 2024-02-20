@@ -100,4 +100,4 @@
 
 **Pour une description plus détaillée, se référer à l'image suivante :**
 
-<img src="reclaimers_description.jpeg" width="200" />
+<img src="medias/reclaimers_description.jpeg" width="200" />
