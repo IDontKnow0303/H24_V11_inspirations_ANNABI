@@ -72,6 +72,6 @@
 
 ### The Alignment Movement
 
-![oeuvre1](medias/zero_ones.png)
+![oeuvre1](medias/alignment_movement.png)
 
 **Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
