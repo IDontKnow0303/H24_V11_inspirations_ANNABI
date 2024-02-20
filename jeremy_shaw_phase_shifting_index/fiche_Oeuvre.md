@@ -83,3 +83,18 @@
 **Pour une description plus détaillée, se référer à l'image suivante :**
 
 <img src="medias/alignment_movement_description.jpeg" width="200" />
+
+### Reclaimers
+
+<img src="reclaimers.png" width="200" />
+
+**Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
+
+*Reclaimers* représente un regroupement qui, comparativement aux précédents, tente de retrouver son contact avec la réalité ordinaire. L'intégration importante de la numérisation et de la virtualité aurait provoqué une catastrophe technologique. Ainsi, les « Reclaimers », à l'aide d'exercices de coordination corporels, essaient de récupérer certaines fonctions longtemps perdues par la faute de l'alliance entre l'être humain et la machine.
+
+[Aperçu - 1](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EdT529qvhzNCudVvuxzlH7cBFY62VW75gXZFha8JxXJlPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5CdwJg)
+
+[Aperçu - 2](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EeKF1c5wMqdEoiHsCbVY0TgB8kQpv5Y1_Nm5adzk4E_CpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XN9mL6)
+
+[Aperçu - 3](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EeDpzs9lIPdFs7aSLDulXnYBJQFU2kTHfP7OoMNP9AFFsA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0HCYaQ)
+
