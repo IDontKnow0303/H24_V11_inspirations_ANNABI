@@ -12,7 +12,6 @@
  
   <img src="medias/ensemble_des_ecrans_colores_01.jpeg" width="200" />
   <img src="medias/ensemble_des_ecrans_colores_02.jpeg" width="200" />
-  <img src="medias/ensemble_des_ecrans_colores_03.jpeg" width="200" />
   <img src="medias/ensemble_des_ecrans_statiques_01.jpeg" width="200" />
   <img src="medias/ensemble_des_ecrans_statiques_02.jpeg" width="200" />
   
@@ -152,9 +151,9 @@ L'exposition est disposée dans une salle de forme rectangulaire, et les écrans
 
 ## Composantes et techniques
 
-- **Trois formats vidéo** : 16 mm, VHS et le Hi-8.
-- Faux documentaires.
-- Utilisation, par les acteurs, d'habits dévoués au style vestimentaire des années 60 à 90.
+- **Trois formats vidéo** : 16 mm, VHS et le Hi-8
+- Faux documentaires
+- Utilisation, par les acteurs, d'habits dévoués au style vestimentaire des années 60 à 90
 
 **Exemple du style vestimentaire référencé ainsi que la qualité vidéo** :
 
@@ -163,5 +162,16 @@ L'exposition est disposée dans une salle de forme rectangulaire, et les écrans
 **Source** : [Akimbo](https://akimbo.ca/listings/jeremy-shaw-phase-shifting-index/)
 
 ## Éléments nécessaires à la mise en exposition
+  
+- Câbles cachés par les bancs primsatiques disposés entre les présentations
+- Projecteurs
+- Lumières LED
+- Écrans
 
-- 
+**Photo des lumières LED émettant des rayons magenta** :
+
+<img src="medias/ensemble_des_ecrans_colores_03.jpeg" width="200" />
+
+[Aperçu - 1](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EYUolaNcxRFMrP4tFHk8XiYBmi3pyaYNNkOuDf8xkiqodQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=27pwan)
+
+[Aperçu - 2](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/ET5SzIP_jlNPhczLVcMe5yUBt-tHe5LfAql3ZhnK7uDhaA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nnr8aM)
