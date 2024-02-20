@@ -44,7 +44,7 @@
 
 ### Zero Ones
 
-![oeuvre2](medias/zero_ones.png)
+<img src="medias/zero_ones.png" width="200" />
 
 **Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
 
@@ -58,7 +58,7 @@
 
 ### The Violet Lux
 
-![oeuvre3](medias/violet_lux.png)
+<img src="medias/violet_lux.png" width="200" />
 
 **Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
 
@@ -72,6 +72,8 @@
 
 ### The Alignment Movement
 
-![oeuvre1](medias/alignment_movement.png)
+<img src="medias/alignment_movement.png" width="200" />
 
 **Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
+
+
