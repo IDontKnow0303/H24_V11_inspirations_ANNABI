@@ -119,3 +119,21 @@
 **Pour une description plus détaillée, se référer à l'image suivante :**
 
 <img src="medias/countdown_description.jpeg" width="200" />
+
+### Quantum Moderns
+
+<img src="medias/quantum_moderns.png" width="200" />
+
+**Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
+
+*Quantum Moderns* diffuse ce qui semble être une forme particulière de ballet. On nous présente deux accouplements d'individus qui réalisent des poses un peu spéciales. Par exemple, ils se superposent les uns sur les autres, ou encore, ils s'étirent les membres de façon inhabtiuelle. Leur objectif serait de modifier la nature physique et de manipuler le temps afin de garantir leur survie.
+
+[Aperçu - 1](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EcNP7vHwul1JsI3YziwUEogB9i1ub0y11DirwsaFdUckgw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ZkGJi8)
+
+[Aperçu - 2](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EXuaTMZgb49DiiMdsdOD5ToBsHP7G20NZrXZDcNF6EJmWg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=diXBx4)
+
+<img src="medias/quantum_moderns_sequence1.jpeg" width="200" />
+
+**Pour une description plus détaillée, se référer à l'image suivante :**
+
+<img src="medias/quantum_moderns_description.jpeg" width="200" />
