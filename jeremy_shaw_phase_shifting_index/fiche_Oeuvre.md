@@ -78,7 +78,7 @@
 
 *The Alignment Movement* affiche une équipe de danseurs dictée par une chorégraphie parfaitement synchronisée. Les membres de ce petit assemblement cherchent à reconstituer des phénomènes scientifiques au moyen d'une méthode cinétique mathématiquement conçue, le but étant d'atténuer les séquelles d'une catastrophe humanitaire.
 
-[Aperçu]([Aperçu](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EYYVf9ZbV5JIkx_mEViwcH0B2EalLrEUr0GUJ4UabhTIng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rb04hx))
+[Aperçu](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EYYVf9ZbV5JIkx_mEViwcH0B2EalLrEUr0GUJ4UabhTIng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rb04hx))
 
 **Pour une description plus détaillée, se référer à l'image suivante :**
 
