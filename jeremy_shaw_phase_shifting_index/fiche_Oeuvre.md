@@ -32,13 +32,25 @@
 
 ![oeuvre1](medias/cyclical_culture.png)
 
-*The Cyclical Culture* est, sommairement, une expérience centrée sur la renaissance et la redécouverte du développement humain depuis la formation de l'embryon. Les membres traversent à nouveau les étapes de l'évolution individuelle, que ce soit au plan physiologique ou biologique, par l'intermédiaire de capacités humaines telles que le toucher, ou encore, la voix.
+*The Cyclical Culture* est, sommairement, une expérience centrée sur la renaissance et la redécouverte du développement humain depuis la formation de l'embryon, dans le cadre d'une extinction humanitaire potentielle. Les membres traversent à nouveau les étapes de l'évolution individuelle, que ce soit au plan physiologique ou biologique, par l'intermédiaire des capacités humaines telles que le toucher, ou encore, la voix.
 
 [Aperçu](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EYYVf9ZbV5JIkx_mEViwcH0B2EalLrEUr0GUJ4UabhTIng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rb04hx)
 
 **Pour une description plus détaillée, se référer à l'image suivante :**
 
 <img src="medias/cyclical_culture_description.jpeg" width="200" />
+
+### Zero Ones
+
+![oeuvre1](medias/zero_ones.png)
+
+*Zero Ones* présente la recherche d'une harmonie entre l'être humain et la technologie. Les membres du groupe « Zero Ones » poursuivent, conséquemment, l'assimilation complète de leur race par la machinerie et un système informatique global. Ils répliquent, entre autres, des mouvements robotiques afin d'atteindre leurs idéaux, soit réunir l'individu et l'engin en un, précisément le surpassement de leur statut courant défini par un progrès évolutif.
+
+(Aucun aperçu disponible)
+
+**Pour une description plus détaillée, se référer à l'image suivante :**
+
+<img src="medias/zero_ones_description.jpeg" width="200" />
 
 
 
