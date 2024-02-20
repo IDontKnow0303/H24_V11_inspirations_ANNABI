@@ -11,10 +11,10 @@
 - **Titre de l'oeuvre** : Phase Shifting Index        
  
   <img src="medias/ensemble_des_ecrans_colores_01.jpeg" width="200" />
-  ![oeuvre](medias/ensemble_des_ecrans_colores_02.jpeg)
-  ![oeuvre](medias/ensemble_des_ecrans_colores_03.jpeg)
-  ![oeuvre](medias/ensemble_des_ecrans_statiques_01.jpeg)
-  ![oeuvre](medias/ensemble_des_ecrans_statiques_02.jpeg)
+  <img src="medias/ensemble_des_ecrans_colores_02.jpeg" width="200" />
+  <img src="medias/ensemble_des_ecrans_colores_03.jpeg" width="200" />
+  <img src="medias/ensemble_des_ecrans_statiques_01.jpeg" width="200" />
+  <img src="medias/ensemble_des_ecrans_statiques_02.jpeg" width="200" />
   
 - **Nom de l'artiste** : Jeremy Shaw
 - **Année de réalisation** : 2020
