@@ -38,7 +38,7 @@
 
 **Pour une description plus détaillée, se référer à l'image suivante :**
 
-![oeuvre1](medias/cyclical_culture_description.jpeg)
+<img src="medias/cyclical_culture_description.jpeg" width="200" />
 
 
 
