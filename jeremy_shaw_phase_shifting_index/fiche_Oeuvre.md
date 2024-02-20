@@ -26,6 +26,6 @@
 
 *Phase Shifting Index* est une expérience immersive dont le thème baigne dans un monde débranché de la réalité. Cette installation comprenant un ensemble de faux documentaires et d'autres éléments audiovisuels fidèles au style des années 60, invite son audience à faire la rencontre d'individus s'adonnant à ce qui paraissent être des activités physiques et thérapeutiques plutôt étranges, dont objectif se résume à l'exploration d'existences parallèles. On est alors introduit aux notions de transcendance et d'intemporalité par le biais du mouvement, tel que démontré par les maints groupes figurant sur les écrans. 
 
-**Pour une description plus détaillée, cliquez ici** [MAC](https://macm.org/expositions/jeremy-shaw/).
+**Pour une description plus détaillée, suivre le lien suivant :** [MAC](https://macm.org/expositions/jeremy-shaw/)
 
 ### The Cyclical Culture
