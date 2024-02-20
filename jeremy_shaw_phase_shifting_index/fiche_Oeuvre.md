@@ -101,3 +101,21 @@
 **Pour une description plus détaillée, se référer à l'image suivante :**
 
 <img src="medias/reclaimers_description.jpeg" width="200" />
+
+### Countdown
+
+<img src="medias/countdown.png" width="200" />
+
+**Source** : [MAC](https://macm.org/expositions/jeremy-shaw/)
+
+*Countdown* introduit un rassemblement de personnes à caractère assez barbare, considérant la manière dont ils se lancent dans tous les sens, sans omettre le langage vulgaire et la conduite semblable à celle de quelqu'un en état d'îvresse. Ils ne s'allient pas à la virtualité ni à leur ancienne vie, car ils croient plutôt au renouveau, un deuxième début sans l'imposition de règles sociétales. 
+
+[Aperçu - 1](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EXkdMioyv-tHgWz39ioosIEBjLfb2yynvZ1ZZiRUHzDDRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IKEuPc)
+
+[Aperçu - 2](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EeRNcoat4whMrfHnXoC6NHwBLzzcqInwSGgs9vDub6asgQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TLKyIs)
+
+<img src="medias/countdown_sequence1.jpeg" width="200" />
+
+**Pour une description plus détaillée, se référer à l'image suivante :**
+
+<img src="medias/countdown_description.jpeg" width="200" />
