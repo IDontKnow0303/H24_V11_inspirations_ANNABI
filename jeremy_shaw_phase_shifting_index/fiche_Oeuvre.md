@@ -98,3 +98,6 @@
 
 [Aperçu - 3](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EeDpzs9lIPdFs7aSLDulXnYBJQFU2kTHfP7OoMNP9AFFsA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0HCYaQ)
 
+**Pour une description plus détaillée, se référer à l'image suivante :**
+
+<img src="reclaimers_description.jpeg" width="200" />
