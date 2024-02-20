@@ -187,3 +187,15 @@ En toute honnêteté, les évènements de la sorte ne sont réellement pas ma ta
 ## Aspects que je changerais
 
 Je ne modifierais pas l'idée derrière le projet, mais plutôt le plan technique, précisément l'inclusion d'interactivité par l'entremise de jeux vidéo. Rares sont les fanatiques d'expositions muséales que j'ai rencontré, et lorsque j'en croise, ce sont généralement des milléniaux ou ceux d'avant. Il y a d'ailleurs un écart de valeurs et d'intérêts entre les deux groupes, par exemple dans le cadre des nouvelles technologies. Évidemment, ce n'est pas absolu et ce n'est appliqué à tous, mais je pense que ce serait justement une méthode efficace pour initier chaque côté aux facettes variées de la virtualité, spécifiquement ceux qui ressentent la déconnexion séparant leurs générations. Cela reviendrait également à renforcer l'intention du *Phase Shifting Index*, surtout l'union individuelle et la notion de bonheur collectif.
+
+## Références
+
+- [MAC](https://macm.org/en/exhibitions/jeremy-shaw/)
+
+- [Akimbo](https://akimbo.ca/listings/jeremy-shaw-phase-shifting-index/)
+
+- [YouTube](https://www.youtube.com/watch?v=BTgUn6cUqPE)
+
+- [YouTube](https://www.youtube.com/watch?v=3qKcd7qb4eE)
+
+- [YouTube](https://www.youtube.com/watch?v=ceyjX_1VR5A)
