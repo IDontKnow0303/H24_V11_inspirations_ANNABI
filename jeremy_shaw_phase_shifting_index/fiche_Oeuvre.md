@@ -149,3 +149,9 @@ L'exposition est disposée dans une salle de forme rectangulaire, et les écrans
 [Aperçu - 1](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EV96-50CSkZLtsz-k2gwumMBaWomnAiLpCMPvyB95VOTWg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2cQ0Mm)
 
 [Aperçu - 2](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/EQs9_bpsSgpCi_DsJz5T_gkB4lkZ0idTv4oXRDpkqe7WOQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Evaoyv)
+
+## Composantes et techniques
+
+- **Trois formats vidéo** : 16 mm, VHS et le Hi-8.
+- Faux documentaires.
+- Utilisation, par les acteurs, d'habits dévoués au style vestimentaire des années 60 à 90.
