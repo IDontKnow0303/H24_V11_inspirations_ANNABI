@@ -9,12 +9,9 @@
 - **Type d'exposition** : Intérieure
 - **Date de visite** : Mercredi, le 20 mars 2024
 - **Titre de l'oeuvre** : Crescentia                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                   
-  
 - **Nom de l'artiste** : 
 - **Année de réalisation** : 
-- **Type d'installation** : Interactive
-
+- **Type d'installation** : Interactive                                                                                                  
 
 ## Description de l'exposition et son contenu
 
