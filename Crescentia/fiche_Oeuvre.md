@@ -2,7 +2,7 @@
 
 **À insérer** : Photo de l'affiche
 
-**Source** : [Musée de la Santé Armand-Frappier](https://museefrappier.org/exposition/4-3-2-1-sante/)
+**Source** : [Crescentia](https://tim-montmorency.com/2024/)
 
 ## Informations essentielles
 
