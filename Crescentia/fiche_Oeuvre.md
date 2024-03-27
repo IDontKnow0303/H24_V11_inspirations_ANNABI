@@ -15,6 +15,7 @@
 
 ## Description de l'exposition et son contenu
 L'exposition *Crescentia* introduit le concept de l'évolution sur des plans variés, que ce soit psychologique ou environnemental, par l'intermédiaire de divers dispotifs interactifs.
+
 **Pour la description originale, voir l'affiche plus haut.**
 
 
