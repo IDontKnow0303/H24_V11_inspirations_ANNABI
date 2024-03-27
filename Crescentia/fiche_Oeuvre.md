@@ -1,6 +1,6 @@
 # Crescentia : Présentation et expérimentation d'une oeuvre interactive
 
-**À insérer** : Photo de l'affiche
+**À insérer** : 
 
 **Source** : [Crescentia](https://tim-montmorency.com/2024/)
 
