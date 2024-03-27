@@ -9,8 +9,8 @@
 - **Type d'exposition** : Intérieure
 - **Date de visite** : Mercredi, le 20 mars 2024
 - **Titre de l'oeuvre** : Crescentia                                                                                                                                                                                                                                                                                                                                                                          
-- **Nom de l'artiste** : 
-- **Année de réalisation** : 
+- **Nom de l'artiste** : Étudiants de troisième année en Technique d'intégration multimédia
+- **Année de réalisation** : 2024
 - **Type d'installation** : Interactive                                                                                                  
 
 ## Description de l'exposition et son contenu
