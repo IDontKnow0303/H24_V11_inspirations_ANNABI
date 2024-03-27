@@ -1,6 +1,6 @@
 # Crescentia : Présentation et expérimentation d'une oeuvre interactive
 
-**À insérer** : 
+<img src="medias/affiche_expo_cescentia.PNG" width="600" />
 
 **Source** : [Crescentia](https://tim-montmorency.com/2024/)
 
