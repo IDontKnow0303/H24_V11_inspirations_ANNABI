@@ -11,9 +11,9 @@
 - **Titre de l'oeuvre** : 4,3,2,1... Santé!                                                                                                                                                                                                                                                                                                                                                                          
                                                                                                    
   
-- **Nom de l'artiste** : Jeremy Shaw
-- **Année de réalisation** : 2020
-- **Type d'installation** : Immersive
+- **Nom de l'artiste** : 
+- **Année de réalisation** : 
+- **Type d'installation** : Interactive
 
 
 ## Description de l'exposition et son contenu
