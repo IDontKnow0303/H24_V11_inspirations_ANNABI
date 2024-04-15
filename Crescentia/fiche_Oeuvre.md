@@ -90,7 +90,7 @@ L'oeuvre *Canevas Cosmique* amène le sujet d'astronomie. L'audience est exposé
 - VCV Rack 2
 - DaVinci Resolve
 
-Source : [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
+Source : [Rhizomatique - Composantes](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
 
 ### Effet-Papillon
 
