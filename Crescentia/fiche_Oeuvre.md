@@ -63,7 +63,7 @@ L'oeuvre *Canevas Cosmique* amène le sujet d'astronomie. L'audience est exposé
 ### Rhizomatique 
 
 #### Audio
-- Haut-parleurs actif de 4"
+- Haut-parleurs actifs de 4"
 - Fils XLR 3 Conducteurs de 15'
 - Powercon
 
@@ -123,6 +123,140 @@ Source : [Rhizomatique - Composantes](https://tim-montmorency.com/2024/projets/R
 
 Source : [Effet-Papillon - Composantes](https://onedrive.live.com/view.aspx?resid=99F7716F115888A9%21107&authkey=!ALh3auzN-XlN1XY)
 
+### Kigo
+
+#### Audio
+- Console de sons
+- Carte de sons
+- Haut-parleurs Genelec 8010APM
+- Câbles XLR M-F
+
+#### Vidéo
+- Projecteur
+- Kinect V2
+- Système d'accrochage
+
+#### Électricité
+- Cordons IEC
+- Extensions de fils électriques
+- Multiprises
+- Câbles d'alimentation
+
+#### Réseau
+- Câbles Ethernet
+- Extension HDMI
+- Câbles HMDI
+- Câble DisplayPort
+
+#### Ordinateur
+- Chariot d'ordinateur
+
+#### Autres
+- Tapis de protection
+- Protections en métal
+- Powercon
+- Magic Arm
+
+#### Logiciels
+- TouchDesigner
+- QIC +
+- MadMapper
+- VCV Rack 2
+- DaVinci Resolve
+
+Source : [Kigo - Composantes](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
+
+### Sonalux
+
+#### Audio
+- Haut-parleurs actifs de 4"
+- Fils XLR 3 Conducteurs de 15' M-F
+- Interface audio USB composée de huit sorties et une entrée
+- Casques d'écoute
+- Carte de son
+
+#### Vidéo
+- Projecteurs vidéos Lentille Grand Angle 0.5
+
+#### Lumière
+- Tubes DEL
+- Projecteur
+
+#### Électricité
+- Cordons IEC
+- Extensions
+- Fiches
+- Conducteurs
+- Multiprises
+
+#### Réseau
+- Fils Cat 6A de 15"
+- Switch POE avec 5 ports
+
+#### Ordinateur
+- Ordinateur portable
+- Ordinateur sur chariot
+
+#### M5Stack
+- Atom Lite
+- Atom POE
+- Angle Unit
+- Key Unit
+- ToF Unit
+- PBHub
+- GroveHub
+- PaHub
+
+#### Autres
+- Podium
+- Crochets
+
+#### Logiciels
+- TouchDesigner
+- VCV Rack 
+- Arduino IDE
+
+Source : [Sonalux - Composantes](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+
+### Canevas Cosmique
+
+#### Audio
+- Haut-parleurs
+- Fils XLR 3 Conducteurs de 15' M-F
+- Carte de son
+
+#### Vidéo
+- Projecteur vidéo Short Throw
+- Projecteur vidéo Ultra-Short Throw
+- Systèmes d'accrochage
+- Kinect V2
+
+#### Lumière
+- Lumière DNX
+
+#### Électricité
+- Cordons IEC
+- Multiprises
+
+#### Réseau
+- Switch POE avec 1 port
+- Switch Ethernet avec 3 ports
+- Câbles Ethernet
+- Câbles HDMI
+- Récepteurs & Émetteurs HDMI
+
+#### Ordinateur
+- Ordinateur portable
+- Ordinateur branché
+
+#### Logiciels
+- TouchDesigner
+- Unity 2022.3.8f1
+- Autodesk Maya
+- Blender
+- Reaper
+
+Source : [Canevas Cosmique - Composantes](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html)
 
 ## Éléments nécessaires à la mise en exposition
   
