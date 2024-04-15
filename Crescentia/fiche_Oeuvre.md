@@ -51,7 +51,7 @@ L'oeuvre *Sonalux* est une expérimentation sonore accompagnée d'animations par
 **Pour un aperçu visuel, consulter le lien ci-dessous.**
 
 ### Canevas Cosmique
-L'oeuvre *Canevas Cosmique* amène le sujet d'astronomie sous forme de dispositif interactif. L'audience est exposée à la projection d'un espace cosmique où le Soleil est le point focal. Ce dernier réagit de façons variées
+L'oeuvre *Canevas Cosmique* amène le sujet d'astronomie. L'audience est exposée à la projection d'un espace cosmique où le Soleil est le point focal. Ce dernier réagit différemment en fonction de la figurine qu'on positionne sur la table interactive, à l'endroit approprié.
 
 **Pour la description originale, consulter le lien ci-dessous.**
 [Canevas Cosmique](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html)
