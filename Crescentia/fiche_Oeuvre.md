@@ -60,7 +60,68 @@ L'oeuvre *Canevas Cosmique* amène le sujet d'astronomie. L'audience est exposé
 
 ## Composantes et techniques
 
+### Rhizomatique 
 
+#### Audio
+- Haut-parleurs actif de 4"
+- Fils XLR 3 Conducteurs de 15'
+- Powercon
+
+#### Vidéo
+- Systèmes d'accrochage
+- Kinects
+- Câbles HDMI
+
+#### Électricité
+- Cordons IEC
+- Extensions
+
+#### Réseau
+- Câbles Ethernet
+- Received & Transmitted
+
+#### Ordinateur
+- Ordinateur portable
+
+#### Logiciels
+- TouchDesigner
+- QIC +
+- MadMapper
+- VCV Rack 2
+- DaVinci Resolve
+
+Source : [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
+
+### Effet-Papillon
+
+#### Composantes (non-classifiées dans la source)
+- Bouton Arduino
+- Atom Poe
+- Écran Raspberry Pi
+- Valve à eau
+- Rails de guidage linéaire
+- Interrupteur
+- Plaque interrupteur
+- Ampoule LED
+- Poulie
+- Pomme en plastique
+- Poids
+- TOF
+- Fairylight Adressable
+
+#### Logiciels 
+- QLC +
+- TouchDesigner
+- MadMapper
+- Arduino
+- HyperHDR
+- FL Studio
+- Visual Studio Code
+- Blender
+- Houdini
+- SppedTree
+
+Source : [Effet-Papillon - Composantes](https://onedrive.live.com/view.aspx?resid=99F7716F115888A9%21107&authkey=!ALh3auzN-XlN1XY)
 
 
 ## Éléments nécessaires à la mise en exposition
