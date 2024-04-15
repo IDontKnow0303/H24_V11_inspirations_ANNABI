@@ -259,9 +259,43 @@ Source : [Sonalux - Composantes](https://tim-montmorency.com/2024/projets/Sonalu
 Source : [Canevas Cosmique - Composantes](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html)
 
 ## Éléments nécessaires à la mise en exposition
-  
 
+### Rhizomatique
+- Toile de spandex
+- Structure en bois
+- Cyclorama
+- Grand studio
 
+Source : [Rhizomatique - Mise en exposition](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
+
+### Effet Papillon
+- Petit studio
+
+Source : [Effet-Papillon - Mise en exposition](https://onedrive.live.com/view.aspx?resid=99F7716F115888A9%21107&authkey=!ALh3auzN-XlN1XY)
+
+### Kigo
+- Grand Studio
+- Captation vidéo
+- Projection vidéo sur un mur
+- Installation de haut-paleurs
+- Table
+- Trépied
+
+Source : [Kigo - Mise en exposition](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
+
+### Sonalux
+- Murs mobiles
+- Grand studio
+
+Source : [Sonalux - Mise en exposition](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+
+### Canevas Cosmique
+- Table 38"x26", 31" de hauteur (**Matériaux** : bois, acier, acrylique, spandex)
+- Grand studio
+- Statuettes imprimées en 3D
+- Bloc-notes pour l'opération de la table
+
+Source : [Canevas Cosmique - Mise en exposition](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html)
 
 ## Expérience vécue
 
