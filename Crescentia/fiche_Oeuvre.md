@@ -42,6 +42,10 @@ L'oeuvre *Effet-Papillon* présente le cycle vital d'un pommier à une fin éduc
 
 **Pour un aperçu visuel, consulter le lien ci-dessous.**
 
+[Effet-Papillon - Expérience](https://cmontmorency365-my.sharepoint.com/:v:/r/personal/2148323_cmontmorency_qc_ca/Documents/effetpapillon_experience.mov?csf=1&web=1&e=XgYS5e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Effet-Papillon - Expérience # 2](https://cmontmorency365-my.sharepoint.com/:v:/r/personal/2148323_cmontmorency_qc_ca/Documents/effetpapillon_experience_02.mov?csf=1&web=1&e=fY3kaQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ### Kigo
 L'oeuvre *Kigo* est une expérience multimédia vécue sous forme de jeu vidéo encourageant l'activité du corps en entier. On baigne dans le thème des quatre périodes saisonnières, car l'environnement change dépendamment de la saison concernée. D'autres éléments tels que les effets sonores et l'ambiance sont équitablement modifiés. Le plan visuel à part, l'objectif principal du joueur est de récolter des points et éviter les obstacles sur son chemin en mesurant prudemment ses mouvements.
 
