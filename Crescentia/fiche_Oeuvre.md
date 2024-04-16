@@ -315,11 +315,11 @@ Ce dispositif sonore requiert qu'on personnalise l'audio et les animations sur l
 Le *Canevas Cosmique* présente une table sur laquelle on retrouve un écran interacitf qui est aussi exposé sur le mur d'en face. Il s'agit d'une illustration du système solaire avec laquelle on peut interagir en se servant des statuettes placées sur la table. Il suffit de les déposer sur l'écran afin de provoquer un phénomène cosmique. Additionnellement, on peut même les mettre directement sur le Soleil au centre afin de causer une réaction différente d'après la figurine utilisée. J'ai des sentiments partagés quant à cette oeuvre car, d'une part, j'ai aimé les effets spéciaux qui s'affichaient lorsqu'on jouait avec les sculptures 3D, mais ça devenait lassant après un moment.
 
 ## Points positifs
-
+En général, chacun des dispositifs est bien réussi. Évidemment, des mises à jour seraient les bienvenues, mais le niveau d'interaction est acceptable et les idées introduites par les finissants sont en majorité captivantes. Par exemple, *Rhizomatique* permet de tisser un lien émotionnel avec l'audience. Sinon, *Kigo* ouvre une porte à la compétition et au plaisir. Ce ne sont pas des oeuvres qui se limitent à la contemplation (dans le cas échéant, ça aurait moins passionnant!).
 
 
 ## Aspects que je changerais
-
+Je ne changerais pas grand chose car, tel que mentionné précédemment, on se situe plus près d'une réussite. Toutefois, des affiches explicatives et des guides seraient des solutions à considérer afin d'encadrer les visiteurs et de les aider à mieux comprendre les oeuvres qui les entourent, surtout *Effet-Papillon*, car on pouvait se perdre facilement avec tout le montage qu'il y avait autour. Il aurait probablement fallu installer des panneaux explicatifs pour que l'on puisse comprendre les conséquences de chaque manipulation.
 
 
 ## Références
