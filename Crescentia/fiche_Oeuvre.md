@@ -45,7 +45,7 @@ L'oeuvre *Effet-Papillon* présente le cycle vital d'un pommier à une fin éduc
 ### Kigo
 L'oeuvre *Kigo* est une expérience multimédia vécue sous forme de jeu vidéo encourageant l'activité du corps en entier. On baigne dans le thème des quatre périodes saisonnières, car l'environnement change dépendamment de la saison concernée. D'autres éléments tels que les effets sonores et l'ambiance sont équitablement modifiés. Le plan visuel à part, l'objectif principal du joueur est de récolter des points et éviter les obstacles sur son chemin en mesurant prudemment ses mouvements.
 
-
+ <img src="medias/kigo_disposition.jpg" width="200" />
 
 **Pour la description originale, consulter le lien ci-dessous.**
 
