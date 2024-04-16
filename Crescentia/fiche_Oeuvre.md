@@ -323,3 +323,11 @@ Je ne changerais pas grand chose car, tel que mentionné précédemment, on se s
 
 
 ## Références
+- [Crescentia](https://tim-montmorency.com/2024/)
+- [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
+- [Effet-Papillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html)
+- [Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
+- [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+- [Canevas Cosmique](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html)
+
+
