@@ -29,10 +29,12 @@ L'oeuvre *Rhizomatique* met l'accent sur la notion du temps. C'est un dispositif
 
 **Pour un aperçu visuel, consulter le lien ci-dessous.**
 
-[Rhizomatique_Expérience](https://cmontmorency365-my.sharepoint.com/:v:/r/personal/2148323_cmontmorency_qc_ca/Documents/rhizomatique_experience.mov?csf=1&web=1&e=FqA5Fx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Rhizomatique - Expérience](https://cmontmorency365-my.sharepoint.com/:v:/r/personal/2148323_cmontmorency_qc_ca/Documents/rhizomatique_experience.mov?csf=1&web=1&e=FqA5Fx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Effet-Papillon
 L'oeuvre *Effet-Papillon* présente le cycle vital d'un pommier à une fin éducative. On incite les interacteurs à manipuler les outils aux alentours de sorte qu'ils puissent non seulement enrichir leurs connaissances par rapport au développement de l'arbre et de la pomme depuis la semence mais, également, afin de découvrir le concept de l'Effet papillon. 
+
+
 
 **Pour la description originale, consulter le lien ci-dessous.**
 
@@ -43,11 +45,15 @@ L'oeuvre *Effet-Papillon* présente le cycle vital d'un pommier à une fin éduc
 ### Kigo
 L'oeuvre *Kigo* est une expérience multimédia vécue sous forme de jeu vidéo encourageant l'activité du corps en entier. On baigne dans le thème des quatre périodes saisonnières, car l'environnement change dépendamment de la saison concernée. D'autres éléments tels que les effets sonores et l'ambiance sont équitablement modifiés. Le plan visuel à part, l'objectif principal du joueur est de récolter des points et éviter les obstacles sur son chemin en mesurant prudemment ses mouvements.
 
+
+
 **Pour la description originale, consulter le lien ci-dessous.**
 
 [Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
 
 **Pour un aperçu visuel, consulter le lien ci-dessous.**
+
+[Kigo - Expérience](https://cmontmorency365-my.sharepoint.com/:v:/r/personal/2148323_cmontmorency_qc_ca/Documents/kigo_experience.mov?csf=1&web=1&e=0vggto&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Sonalux
 L'oeuvre *Sonalux* est une expérimentation sonore accompagnée d'animations particulières qui repose totalement sur le contrôle de l'interacteur. Par l'intermédiaire de boutons et de codeurs rotatifs, il est possible de personnaliser l'audio et, conséquemment, la forme des animations.
