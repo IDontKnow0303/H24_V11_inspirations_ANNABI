@@ -299,6 +299,20 @@ Source : [Canevas Cosmique - Mise en exposition](https://tim-montmorency.com/202
 
 ## Expérience vécue
 
+### Rhizomatique
+Tout visiteur qui souhaite interagir avec ce dispositif doit se positionner devant la toile et y appliquer une pression. Selon le degré de la force employée et la direction dans laquelle sa main se situe, les souvenirs, respectivement, apparaissent plus clairement et conformément à l'emplacement de la main. Je n'ai personnellement pas ressenti grand chose suite à ma propre expérimentation puisque les souvenirs ne provenaient pas de ma propre mémoire, mais le concept est très intéressant et pourrait même être thérapeutique car, avec la charge quotidienne, on devient souvent robotisé, et on tend à oublier les moments joyeux du passé. *Rhizomatique* permettrait  alors de les rallumer.
+
+### Effet-Papillon
+Afin de suivre la croissance du pommier, l'interacteur doit manipuler les divers boutons et leviers présents sur les lieux. Au centre, la structure est recouverte de petits écrans répartis de haut en bas, sur lesquels on peut constater l'évolution de l'arbre. En ce me concerne, le tout n'était pas vraiment à mon goût, peut-être parce que l'idée était trop ordinaire. L'Effet papillon est, certes, un phénomène intriguant, mais il aurait peut-être fallu utiliser quelque chose de plus visuellement impressionnant afin de générer des réactions.
+
+### Kigo
+Pour démarrer le jeu, le joueur doit s'avancer sur le tapis disposé devant l'écran. Ainsi, ce dernier va détecter le mouvement et enclencher la partie. On est invité à contrôler l'avatar par l'entremise de nos propres gestes de sorte à esquiver les obstacles et récolter le plus de points possible. Comme tout autre jeu, un manquement à l'égard des règles mène à la fin de la partie. *Kigo* est, à mon avis, l'un des meilleurs dispositifs, car il pousse les visiteurs à s'engager dans l'action et bouger (un point pour l'activité physique!). Pour ma part, c'était très divertissant, surtout en y participeant avec des amis.
+
+### Sonalux
+Ce dispositif sonore requiert qu'on personnalise l'audio et les animations sur les écrans en touchant aux paramètres sur le podium. Il faut d'abord s'approcher de ce dernier, car il est équipé d'un détecteur de mouvements qui active immédiatement l'oeuvre. Par la suite, il est possible de concevoir maintes variations de sons et d'animations avec les boutons installés devant le visiteur. J'ai apprécié cette expérience, principalement à cause de la liberté dont je disposais sur le plan créatif. Il était possible de produire plusieurs combinaisons de sons et d'effets visuels, aussi fascinant les uns des autres, artistiquement parlant.
+
+### Canevas Cosmique
+Le *Canevas Cosmique* présente une table sur laquelle on retrouve un écran interacitf qui est aussi exposé sur le mur d'en face. Il s'agit d'une illustration du système solaire avec laquelle on peut interagir en se servant des statuettes placées sur la table. Il suffit de les déposer sur l'écran afin de provoquer un phénomène cosmique. Additionnellement, on peut même les mettre directement sur le Soleil au centre afin de causer une réaction différente d'après la figurine utilisée. J'ai des sentiments partagés quant à cette oeuvre car, d'une part, j'ai aimé les effets spéciaux qui s'affichaient lorsqu'on jouait avec les sculptures 3D, mais ça devenait lassant après un moment.
 
 ## Points positifs
 
