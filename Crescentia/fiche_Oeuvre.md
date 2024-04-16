@@ -62,7 +62,7 @@ L'oeuvre *Kigo* est une expérience multimédia vécue sous forme de jeu vidéo 
 ### Sonalux
 L'oeuvre *Sonalux* est une expérimentation sonore accompagnée d'animations particulières qui repose totalement sur le contrôle de l'interacteur. Par l'intermédiaire de boutons et de codeurs rotatifs, il est possible de personnaliser l'audio et, conséquemment, la forme des animations.
 
-
+ <img src="medias/sonalux_disposition.jpg" width="200" />
 
 **Pour la description originale, consulter le lien ci-dessous.**
 
