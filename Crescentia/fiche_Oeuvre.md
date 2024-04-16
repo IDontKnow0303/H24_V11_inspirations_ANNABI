@@ -83,6 +83,10 @@ L'oeuvre *Canevas Cosmique* amène le sujet d'astronomie. L'audience est exposé
 
 **Pour un aperçu visuel, consulter le lien ci-dessous.**
 
+[Canevas Cosmique - Expérience](https://cmontmorency365-my.sharepoint.com/:v:/r/personal/2148323_cmontmorency_qc_ca/Documents/canevas-cosmique_experience.mov?csf=1&web=1&e=lKnWxt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Canevas Cosmique - Expérience # 2](https://cmontmorency365-my.sharepoint.com/:v:/r/personal/2148323_cmontmorency_qc_ca/Documents/canevas_cosmique_experience_02.mov?csf=1&web=1&e=OeDqbO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Composantes et techniques
 
 ### Rhizomatique 
