@@ -24,9 +24,12 @@ L'oeuvre *Rhizomatique* met l'accent sur la notion du temps. C'est un dispositif
  <img src="medias/rhizomatique_disposition.jpeg" width="200" />
 
 **Pour la description originale, consulter le lien ci-dessous.**
+
 [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
 
 **Pour un aperçu visuel, consulter le lien ci-dessous.**
+
+[Rhizomatique_Expérience](https://cmontmorency365-my.sharepoint.com/:v:/r/personal/2148323_cmontmorency_qc_ca/Documents/rhizomatique_experience.mov?csf=1&web=1&e=FqA5Fx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### Effet-Papillon
 L'oeuvre *Effet-Papillon* présente le cycle vital d'un pommier à une fin éducative. On incite les interacteurs à manipuler les outils aux alentours de sorte qu'ils puissent non seulement enrichir leurs connaissances par rapport au développement de l'arbre et de la pomme depuis la semence mais, également, afin de découvrir le concept de l'Effet papillon. 
