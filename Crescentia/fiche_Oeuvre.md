@@ -21,6 +21,8 @@ L'exposition *Crescentia* introduit le concept de l'évolution sur des plans var
 ### Rhizomatique
 L'oeuvre *Rhizomatique* met l'accent sur la notion du temps. C'est un dispositif interactif qui, par le biais d'une toile représentant le cerveau, permet à quiconque appuie sa main dessus de visionner ses propres souvenirs. De plus, la clarté des projections s'intensifie proportionnellement au contact avec le mécanisme. 
 
+
+
 **Pour la description originale, consulter le lien ci-dessous.**
 [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
 
