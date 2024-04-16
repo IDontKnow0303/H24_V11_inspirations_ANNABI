@@ -34,7 +34,7 @@ L'oeuvre *Rhizomatique* met l'accent sur la notion du temps. C'est un dispositif
 ### Effet-Papillon
 L'oeuvre *Effet-Papillon* présente le cycle vital d'un pommier à une fin éducative. On incite les interacteurs à manipuler les outils aux alentours de sorte qu'ils puissent non seulement enrichir leurs connaissances par rapport au développement de l'arbre et de la pomme depuis la semence mais, également, afin de découvrir le concept de l'Effet papillon. 
 
-
+ <img src="medias/effetpapillon_disposition.jpeg" width="200" />
 
 **Pour la description originale, consulter le lien ci-dessous.**
 
