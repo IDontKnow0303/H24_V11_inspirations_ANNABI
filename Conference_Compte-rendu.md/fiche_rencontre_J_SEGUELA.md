@@ -18,4 +18,12 @@ Tant qu'à documenter, Jade Séguéla a justement souligné le rôle fondamental
 
 <img src="medias/role_documentation.jpeg" width="200" />
 
+## Les difficultés
+
+Ce travail vient indéniablement avec ses propres défis, même si ce n'est pas de la médecine ou tout autre métier complexe. La conférencière l'a rapporté lorsqu'elle parlait de leur installation à Abu Dhabi. En effet, la production d'une oeuvre peut requérir une adaptation aux conditions pouvant s'imposer. Dans le cas de Dubaï, Séguéla et son groupe devaient parcourir une bonne distance dans la chaleur. Une pluie s'est même ajouté plus tard, ce qui conduit à la reprise du projet depuis zéro. Parfois, l'échéance peut aussi peser lourd, surtout quand on ne dipose que d'une journée pour conclure le tout, et cela en exlcuant la probabilité de ne pas recevoir autant de succès que ce à quoi on s'attendait.
+
+## Conclusion
+
+
+
 
