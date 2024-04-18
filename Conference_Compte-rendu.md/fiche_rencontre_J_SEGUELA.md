@@ -10,4 +10,4 @@ Tel que mentionné ci-haut, Rafael Lozano-Hemmer est un artiste multimédia qui 
 
 ## Formation de l'équipe
 
-
+ <img src="medias/formation_equipe.jpeg" width="200" />
