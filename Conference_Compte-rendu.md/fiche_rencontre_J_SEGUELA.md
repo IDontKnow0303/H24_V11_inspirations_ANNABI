@@ -11,3 +11,9 @@ Tel que mentionné ci-haut, Rafael Lozano-Hemmer est un artiste multimédia qui 
 ## Formation de l'équipe
 
  <img src="medias/formation_equipe.jpeg" width="200" />
+
+## L'importance de la documentation
+
+Tant qu'à documenter, Jade Séguéla a justement souligné le rôle fondamental de la documentation de contenu multimédia. Par exemple, en prenant note de la divisin des tâches avant la finalisation d'un projet, on se garantit une certaine protection. Si jamais l'omission d'un élément est signalée après l'envoi du produit, retracer le responsable sera un jeu d'enfant, car on l'aura déjà marqué à ce stade. Cette méthode ne se limite néanmoins pas à l'assurance. C'est d'abord une ressource précieuse pour l'équipe, puis aussi un compte rendu de la procédure (afin de ne perdre aucune information par rapport au projet). On y indique en outre le fonctionnement de l'oeuvre, et c'est aussi utile pour les douanes.
+
+
