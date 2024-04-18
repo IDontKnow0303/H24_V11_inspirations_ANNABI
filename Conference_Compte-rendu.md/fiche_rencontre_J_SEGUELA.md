@@ -6,7 +6,8 @@ En Technique d'intégration multimédia, on est souvent, en tant qu'étudiant, a
 
 ## Rafael Lozano-Hemmer
 
-Comme soigneusement mentionné ci-haut, Rafael Lozano-Hemmer est un artiste multimédia qui aime intégrer des notions variées dans ses créations, entre autres, la technologie, la politique, la poésie et la science. Il encourage grandement une participation collective dans la fondation d'une oeuvre, puis il ne manque jamais de créditer ses collègues. D'après Madame Séguéla, il souligne, de plus, l'importance de trouver du plaisir dans la phase de développement d'un porjet artistique quelconque.
+Tel que mentionné ci-haut, Rafael Lozano-Hemmer est un artiste multimédia qui aime intégrer des notions variées dans ses créations, entre autres, la technologie, la politique, la poésie et la science. Il encourage grandement une participation collective dans la fondation d'une oeuvre, puis il ne manque jamais de créditer ses collègues. D'après Madame Séguéla, il souligne, de plus, l'importance de trouver du plaisir dans la phase de développement d'un projet artistique quelconque.
 
 ## Formation de l'équipe
+
 
