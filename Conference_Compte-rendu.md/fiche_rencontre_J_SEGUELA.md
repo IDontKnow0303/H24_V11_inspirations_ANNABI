@@ -1,6 +1,6 @@
 # Conférence : Studio Antimodular
 
- <img src="medias/oeuvre_rafael_lozano-hemmer.jpg" width="700" />
+ <img src="medias/oeuvre_rafael_lozano-hemmer.jpg" width="700" height="700" />
 
 ## Introduction
 
