@@ -1,6 +1,6 @@
 # Conférence : Studio Antimodular
 
-## Introduction au métier
+## Introduction
 
 En Technique d'intégration multimédia, on est souvent, en tant qu'étudiant, amené à découvrir diverses oeuvres numériques et interactives sans pour autant être renseigné quant à la lourde charge de travail que peut constituer la réalisation de tels projets. Jade Séguéla, la registraire du Studio Antimodular dirigé par l'artiste multimédia Rafael-Lozano Hemmer, a toutefois offert un aperçu du processus de création en rassemblant certains dispositifs conçus par son équipe. Elle est passé par plusieurs points, notamment les incidents susceptibles d'arriver, l'importance de la documentation, ou encore, la division des tâches derrière les coulisses.
 
@@ -17,3 +17,5 @@ Tel que mentionné ci-haut, Rafael Lozano-Hemmer est un artiste multimédia qui 
 Tant qu'à documenter, Jade Séguéla a justement souligné le rôle fondamental de la documentation de contenu multimédia. Par exemple, en prenant note de la divisin des tâches avant la finalisation d'un projet, on se garantit une certaine protection. Si jamais l'omission d'un élément est signalée après l'envoi du produit, retracer le responsable sera un jeu d'enfant, car on l'aura déjà marqué à ce stade. Cette méthode ne se limite néanmoins pas à l'assurance. C'est d'abord une ressource précieuse pour l'équipe, puis aussi un compte rendu de la procédure (afin de ne perdre aucune information par rapport au projet). On y indique en outre le fonctionnement de l'oeuvre, et c'est aussi utile pour les douanes.
 
 <img src="medias/role_documentation.jpeg" width="200" />
+
+
