@@ -28,6 +28,6 @@ Ce travail vient indéniablement avec ses propres défis, même si ce n'est pas 
 
 ## Conclusion
 
-
+J'ai personnellement aimé la conférence, principalement parce qu'on nous a offert un aperçu plus approfondi de la profession. J'avais déjà visité des studios d'oeuvres multimédias auparavant, mais sur le coup du moment, je ne me questionnait pas vraiment sur l'organisation du contenu. Je pense même que je contemplais aveuglément les dispositifs, car je ne les comprenais pas. Je suis suis maintenant un peu plus renseigné, car j'ai réalisé qu'il pouvait y avoir un poids énorme derrière les rideaux, et il faut que ce soit suffisamment présentable pour attirer des yeux. 
 
 
