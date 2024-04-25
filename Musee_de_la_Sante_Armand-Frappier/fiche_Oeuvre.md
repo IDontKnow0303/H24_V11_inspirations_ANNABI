@@ -49,6 +49,11 @@ Pour une description plus complète, voir l'image ci-dessous :
 
 ## Expérience vécue
 
+Les visiteurs sont incités à cliquer sur les boutons vibrants et à lire les explications projetées sur le mur afin de se renseigner sur le sujet de l'environnement. Il y a une vaste majorité d'information dont j'étais déjà au courant, donc je ne peux pas dire que j'étais étonné, mais c'est bon d'avoir un rappel à l'occasion, surtout avec la négligence notable de l'état planétaire (par exemple, les ordures que l'on trouve par terre dans tous les sens). 
+
+Pour un aperçu visuel du dispositif, consulter le lien ci-dessous: 
+
+[Échelle planétaire](https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2148323_cmontmorency_qc_ca/ETi78KT2iEVGsnNqoFdW6z4B1PfGAQEpUrg-6HsjUVhiEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0lCEFH)
 
 ## Points positifs
 
