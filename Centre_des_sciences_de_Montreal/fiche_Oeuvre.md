@@ -21,10 +21,12 @@
 
 
 ## Description de l'oeuvre et son contenu
+
 *Tout s'apprend* est un dispositif qui explore diverses formes d'art mural dont la clarté et la réciprocité aux styles originaux s'amplifient dépendamment du niveau d'entraînement cérébral du système d'intelligence artificielle inclu dans l'installation.
 
 Pour une description plus complète, consulter l'image ci-dessous :
 
+ <img src="medias/description_tout_sapprend_jpg" width="500"/>
 
 ## Mise en espace
 
