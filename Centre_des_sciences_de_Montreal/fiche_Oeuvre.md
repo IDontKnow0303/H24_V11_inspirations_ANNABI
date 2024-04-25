@@ -31,7 +31,7 @@ Pour une description plus complète, consulter l'image ci-dessous :
 
 ## Mise en espace & fonctionnement de l'oeuvre
 
-C'est un dispositif assez simple à utiliser. Les visiteurs sont exposés à un écran large sur lequel on peut se regarder sous différents filtres artistiques. Il est d'ailleurs permis d'interagir avec le panneau d'options situé à la gauche afin de non seulement alterner entre un style, puis l'autre mais, aussi, de modifier l'intensité de l'esthétique. La procédure consiste à, respectivement, appuyer sur la forme que l'on préfère, et déplacer le cerveau numérique visible sur le panneau afin de graduellement approcher le style original.
+C'est un dispositif assez simple à utiliser. Les visiteurs sont exposés à un écran large sur lequel on peut se regarder sous différents filtres artistiques. Il est d'ailleurs permis d'interagir avec le panneau d'options situé à la gauche afin de non seulement alterner entre un style, puis l'autre ,mais, aussi, de modifier l'intensité de l'esthétique. La procédure consiste à, respectivement, appuyer sur la forme que l'on préfère, et déplacer le cerveau numérique visible sur le panneau afin de graduellement se rapprocher du style original.
 
 Pour un aperçu du fonctionnement, consulter le lien ci-dessous :
 
