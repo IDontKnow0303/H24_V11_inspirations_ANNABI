@@ -1,6 +1,8 @@
 # 4,3,2,1... Santé : Présentation et expérimentation d'une oeuvre interactive
 
-**À insérer** : Photo de l'affiche
+ <img src="medias/site_armand-frappier.png" width="500"/>
+
+ Source : [Armand-Frappier](https://museefrappier.org/)
 
 **Source** : [Musée de la Santé Armand-Frappier](https://museefrappier.org/exposition/4-3-2-1-sante/)
 
