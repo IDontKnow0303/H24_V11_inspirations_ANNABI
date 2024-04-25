@@ -44,6 +44,9 @@ Pour une description plus complète, voir l'image ci-dessous :
 - Mur
 - Microphones
 
+ <img src="medias/vue_projecteurs_ellipsoidales.png" width="300"/>
+ <img src="medias/vue_projecteurs_videos_microphones.png" width="300"/>
+
 ## Expérience vécue
 
 
