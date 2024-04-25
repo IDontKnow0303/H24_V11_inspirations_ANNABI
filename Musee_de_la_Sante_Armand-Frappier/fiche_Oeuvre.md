@@ -10,7 +10,8 @@
   
 - **Date de visite** : Jeudi, le 7 mars 2024
 
-   <img src="medias/moi_entree_armand-frappier.jpg" width="1000"/>
+<img src="medias/moi_entree_armand-frappier.jpg" width="300"/>
+<img src="medias/affiche_armand-frappier.png" width="300"/>
   
 - **Titre de l'oeuvre** : Échelle planétaire
                                                                                                  
