@@ -28,17 +28,21 @@
 
 Pour une description plus complète, voir l'image ci-dessous : 
 
- <img src="medias/description_oeuvre_echelle_planetaire.png" width="500"/>
+ <img src="medias/description_dispositif.png" width="500"/>
 
 ## Composantes et techniques
 
-
-
+- Boutons interactifs
+- Animations
+- Illustrations numériques
+- Conception audio (sons de criquets)
 
 ## Éléments nécessaires à la mise en exposition
-  
 
-
+- Projecteurs vidéo
+- Projecteurs ellipsoïdales
+- Mur
+- Microphones
 
 ## Expérience vécue
 
