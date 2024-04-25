@@ -46,6 +46,12 @@ Pour un aperçu des formes artistiques variées, voir les images ci-dessous :
 
 ## Composantes et techniques
 
+- Écran
+- Boutons numériques du panneau interactif
+- Système d'intelligence artificielle
+- Filtres
+
+ <img src="medias/panneau_options.jpeg" width="300"/>
 
 ## Expérience vécue
 
