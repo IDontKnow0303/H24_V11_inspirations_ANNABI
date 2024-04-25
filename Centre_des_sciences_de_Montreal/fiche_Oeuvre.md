@@ -26,7 +26,7 @@
 
 Pour une description plus complète, consulter l'image ci-dessous :
 
- <img src="medias/description_tout_sapprend_jpg" width="500"/>
+ <img src="medias/description_tout_sapprend.jpg" width="500"/>
 
 ## Mise en espace
 
