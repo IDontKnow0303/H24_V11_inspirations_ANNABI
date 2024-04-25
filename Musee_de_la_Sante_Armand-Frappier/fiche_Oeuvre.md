@@ -23,8 +23,7 @@
 
 *Échelle planétaire* est une projection éducative qui met l'accent sur la préservation de l'environnement planétaire et enseigne les marches à suivre pour remédier aux problèmes générés par des pratiques nuisibles devenues normalisées par la société.
 
-Pour une description plus complète, voir l'image ci-dessous :
-
+Pour une description plus complète, voir l'image ci-dessous : 
 
 
 ## Composantes et techniques
