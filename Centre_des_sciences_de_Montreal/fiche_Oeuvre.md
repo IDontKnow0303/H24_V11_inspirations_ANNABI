@@ -7,7 +7,8 @@
 - **Type d'exposition** : Intérieure
 - **Date de visite** : Mercredi, le 10 avril 2024
 - **Titre de l'oeuvre** : Tout s'apprend       
-- **Nom de l'artiste** : N/A
+- **Artiste/Firme** :
+  
 - **Année de réalisation** : N/A
 - **Type d'installation** : Interactive
 
