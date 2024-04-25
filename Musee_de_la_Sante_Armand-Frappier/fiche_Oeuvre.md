@@ -1,8 +1,6 @@
 # 4,3,2,1... Santé : Présentation et expérimentation d'une oeuvre interactive
 
- <img src="medias/site_armand-frappier.png" width="500"/>
-
- Source : [Armand-Frappier](https://museefrappier.org/)
+ <img src="medias/site_armand-frappier.png" width="1000"/>
 
 **Source** : [Musée de la Santé Armand-Frappier](https://museefrappier.org/exposition/4-3-2-1-sante/)
 
@@ -11,6 +9,8 @@
 - **Type d'exposition** : Intérieure
   
 - **Date de visite** : Jeudi, le 7 mars 2024
+
+   <img src="medias/moi_entree_armand-frappier.jpg" width="1000"/>
   
 - **Titre de l'oeuvre** : Échelle planétaire
                                                                                                  
