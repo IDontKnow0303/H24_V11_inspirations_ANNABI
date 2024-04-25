@@ -5,12 +5,18 @@
 ## Informations essentielles
 
 - **Type d'exposition** : Intérieure
+  
 - **Date de visite** : Mercredi, le 10 avril 2024
-- **Titre de l'oeuvre** : Tout s'apprend       
+  
+- **Titre de l'oeuvre** : Tout s'apprend
+        
 - **Artiste/Firme** :
+  
  <img src="medias/panneau_credit.png" width="500"/>
  <img src="medias/equipes_artistes.png" width="500"/>
+ 
 - **Année de réalisation** : N/A
+  
 - **Type d'installation** : Interactive
 
 
