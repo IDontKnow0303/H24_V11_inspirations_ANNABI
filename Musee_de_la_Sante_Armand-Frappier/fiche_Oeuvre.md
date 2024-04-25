@@ -28,7 +28,6 @@
 
 Pour une description plus complète, voir l'image ci-dessous : 
 
-
  <img src="medias/description_oeuvre_echelle_planetaire.png" width="500"/>
 
 ## Composantes et techniques
