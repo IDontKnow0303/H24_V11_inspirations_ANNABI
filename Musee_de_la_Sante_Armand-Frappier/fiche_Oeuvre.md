@@ -57,15 +57,15 @@ Pour un aperçu visuel du dispositif, consulter le lien ci-dessous:
 
 ## Points positifs
 
-
+J'aime le fait qu'on utilise une approche technologique pour insister sur la protection de l'environnement étant donné qu'on se dirige vers un avenir branché. D'après ce que j'ai constaté sur mes réseaux sociaux, les manifestions tendent à frustrer les gens au lieu de les aider à comprendre, alors je trouve que l'emploi de moyens multimédias est une idée de génie, car c'est d'abord très efficace, mais également parce que les interacteurs peuvent en apprendre plus dans le confort.
 
 ## Aspects que je changerais
 
-
+Je pense que la réalité virtuelle serait une méthode dont il faudrait tenir compte pour faire passer le message, car on aurait grandement plus de facilité à atteindre l'audience. Effectivement, les plonger dans un monde virtuel leur permettrait d'avoir une meilleure conception des complications environnementales puisque l'expérience serait vécue comme si elle prenait place dans la vraie vie.
 
 ## Références
 
-
+- [Musée de la Santé Armand-Frappier](https://museefrappier.org/exposition/4-3-2-1-sante/)
 
 
 
