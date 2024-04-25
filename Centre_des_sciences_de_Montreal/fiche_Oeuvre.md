@@ -19,6 +19,7 @@
   
 - **Type d'installation** : Interactive
 
+ <img src="medias/apercu_visuel_tout_sapprend.jpg" width="500"/>
 
 ## Description de l'oeuvre et son contenu
 
