@@ -13,7 +13,7 @@
 - **Artiste(s)/Firme** :
   
  <img src="medias/panneau_credit.png" width="500"/>
- <img src="medias/equipes_artistes.png" width="500"/>
+ <img src="medias/equipes_des_projets.png" width="500"/>
  
 - **Année de réalisation** : N/A
   
