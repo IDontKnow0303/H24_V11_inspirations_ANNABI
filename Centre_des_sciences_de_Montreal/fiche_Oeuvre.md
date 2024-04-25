@@ -39,10 +39,10 @@ Pour un aperçu du fonctionnement, consulter le lien ci-dessous :
 
 Pour un aperçu des formes artistiques variées, voir les images ci-dessous : 
 
- <img src="medias/style_brique.jpeg" width="500"/>
- <img src="medias/style_mosaique.jpeg" width="500"/>
- <img src="medias/style_noir-blanc.jpeg" width="500"/>
- <img src="medias/style_retro.jpeg" width="500"/>
+ <img src="medias/style_brique.jpeg" width="300"/>
+ <img src="medias/style_mosaique.jpeg" width="300"/>
+ <img src="medias/style_noir-blanc.jpeg" width="300"/>
+ <img src="medias/style_retro.jpeg" width="300"/>
 
 ## Composantes et techniques
 
