@@ -2,6 +2,8 @@
 
  <img src="medias/affiche_exposition.png" width="1000"/>
 
+ **Source** : [Centre des sciences de Montréal](https://www.centredessciencesdemontreal.com/)
+
 ## Informations essentielles
 
 - **Type d'exposition** : Intérieure
