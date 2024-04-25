@@ -8,7 +8,8 @@
 - **Date de visite** : Mercredi, le 10 avril 2024
 - **Titre de l'oeuvre** : Tout s'apprend       
 - **Artiste/Firme** :
-  
+ <img src="medias/affiche_exposition.png" width="500"/>
+ <img src="medias/affiche_exposition.png" width="500"/>
 - **Année de réalisation** : N/A
 - **Type d'installation** : Interactive
 
