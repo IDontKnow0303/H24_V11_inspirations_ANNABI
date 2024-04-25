@@ -1,6 +1,6 @@
 # Centre des sciences de Montréal : Présentation et expérimentation d'une oeuvre interactive
 
- <img src="medias/affiche_expostion.png" width="1000"/>
+ <img src="medias/affiche_exposition.png" width="1000"/>
 
 ## Informations essentielles
 
