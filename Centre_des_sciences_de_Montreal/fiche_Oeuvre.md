@@ -10,7 +10,7 @@
   
 - **Titre de l'oeuvre** : Tout s'apprend
         
-- **Artiste(s)/Firme** :
+- **Artiste(s)/Firme(s)** :
   
  <img src="medias/panneau_credit.png" width="500"/>
  <img src="medias/equipes_des_projets.png" width="500"/>
