@@ -68,5 +68,8 @@ J'ai un faible pour l'invention de personnages, et je me contente généralement
 
 L'oeuvre en soi était passionnante, mais je pense qu'elle pourrait attirer une plus grande audience en intégrant d'autres formes d'art dans son contenu. Par exemple, on pourrait ajouter un filtre d'animation japonaise pour voir à quoi on ressemblerait dans un dessin animé.
 
+## Références
+
+- **Source** : [Centre des sciences de Montréal](https://www.centredessciencesdemontreal.com/)
 
 
