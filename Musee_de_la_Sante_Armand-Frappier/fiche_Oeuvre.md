@@ -40,7 +40,7 @@ Pour une description plus complète, voir l'image ci-dessous :
 ## Éléments nécessaires à la mise en exposition
 
 - Projecteurs vidéo
-- Projecteurs ellipsoïdales
+- Projecteurs ellipsoïdaux
 - Mur
 - Microphones
 
